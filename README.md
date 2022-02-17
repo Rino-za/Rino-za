@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rinoza
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently a Student at PERI IT.
+- 💞️ I’m looking to collaborate on various projects.
+- 📫 How to reach me : rinozakn@gmail.com
